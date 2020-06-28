@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/dv-visual-control-app/static/js/main.96c311db.chunk.js",
+    "main.js.map": "/dv-visual-control-app/static/js/main.96c311db.chunk.js.map",
+    "runtime-main.js": "/dv-visual-control-app/static/js/runtime-main.2eb76539.js",
+    "runtime-main.js.map": "/dv-visual-control-app/static/js/runtime-main.2eb76539.js.map",
+    "static/js/2.3a15afcc.chunk.js": "/dv-visual-control-app/static/js/2.3a15afcc.chunk.js",
+    "static/js/2.3a15afcc.chunk.js.map": "/dv-visual-control-app/static/js/2.3a15afcc.chunk.js.map",
+    "index.html": "/dv-visual-control-app/index.html",
+    "precache-manifest.01c1285bd36bcf20e2fabe2245ea1d5c.js": "/dv-visual-control-app/precache-manifest.01c1285bd36bcf20e2fabe2245ea1d5c.js",
+    "service-worker.js": "/dv-visual-control-app/service-worker.js",
+    "static/js/2.3a15afcc.chunk.js.LICENSE.txt": "/dv-visual-control-app/static/js/2.3a15afcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eb76539.js",
+    "static/js/2.3a15afcc.chunk.js",
+    "static/js/main.96c311db.chunk.js"
+  ]
+}
