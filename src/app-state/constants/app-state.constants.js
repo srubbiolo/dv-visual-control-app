@@ -1,5 +1,4 @@
 export const DATA_LOADED = 'DATA_LOADED';
-export const SELECT_VIDEO = 'SELECT_VIDEO';
 export const PLAY_STATUS_CHANGE = 'PLAY_STATUS_CHANGE';
 export const VOLUME_CHANGE = 'VOLUME_CHANGE';
 export const BRIGHT_CHANGE = 'BRIGHT_CHANGE';
